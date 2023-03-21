@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Skills and Tools
-(https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,firebase,webpack,git)
+### Skills and Tools[![My Skills]
+
+[![My Skills] (https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,firebase,webpack,git)]
