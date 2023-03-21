@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Skills and Tools[![My Skills]
-
-[![My Skills] (https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,firebase,webpack,git)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,firebase,webpack,git)]
